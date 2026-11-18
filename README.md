@@ -1,5 +1,7 @@
 # SYM10X1 — single-cell CaRPool-Seq screen
 
+[![DOI](https://zenodo.org/badge/1462744115.svg)](https://doi.org/10.5281/zenodo.24343721)
+
 Sub-analysis repository for the manuscript:
 
 > **_Arriaga-González, F.G., Joseph, N.A., Peidli, S. et al 2026 - Uncovering RNA Dependencies in Lung Cancer through CRISPR–Cas13d Functional Genomics_**
